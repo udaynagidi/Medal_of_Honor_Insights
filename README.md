@@ -49,6 +49,6 @@ To explore the report yourself:
 ### Special Thanks:
 - Microsoft Power BI
 - Medal of Honor open data sources
-"C:\Users\nagidi001\Desktop\Military Dashboard Preview.png"
+
 ---
 This repository aims to honor the valor of recipients by revealing their stories through data.
